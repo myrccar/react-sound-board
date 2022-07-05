@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-sound-board/static/css/main.073c9b0a.css",
-    "main.js": "/react-sound-board/static/js/main.9eeef6e5.js",
+    "main.css": "/react-sound-board/static/css/main.25842330.css",
+    "main.js": "/react-sound-board/static/js/main.e27af455.js",
     "static/js/787.b8df83a2.chunk.js": "/react-sound-board/static/js/787.b8df83a2.chunk.js",
-    "static/media/logo.svg": "/react-sound-board/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-sound-board/index.html",
-    "main.073c9b0a.css.map": "/react-sound-board/static/css/main.073c9b0a.css.map",
-    "main.9eeef6e5.js.map": "/react-sound-board/static/js/main.9eeef6e5.js.map",
+    "main.25842330.css.map": "/react-sound-board/static/css/main.25842330.css.map",
+    "main.e27af455.js.map": "/react-sound-board/static/js/main.e27af455.js.map",
     "787.b8df83a2.chunk.js.map": "/react-sound-board/static/js/787.b8df83a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.9eeef6e5.js"
+    "static/css/main.25842330.css",
+    "static/js/main.e27af455.js"
   ]
 }
